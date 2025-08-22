@@ -1,6 +1,6 @@
-# Techinal Documentation
+# Techical Documentation
 
-Learnt to build a reverse shell, allowing an attacker access to a target system.. I went through the work of Mr. Yosifovich; the author Windows Internals to guide in building the base and I have debugged and added extra functionality.
+Learnt how to build a reverse shell, allowing an attacker access to a target system.. I went through the work of Mr. Yosifovich; the author Windows Internals to guide in building the base and I have debugged and added extra functionality.
 
 ---
 # Overview of architecture: 
@@ -27,4 +27,3 @@ Once deployed, the controller can send arbitrary Windows shell commands to the t
 
 When Running Application:
 Run Local.exe and Remote.exe both in debug simultaneously.
-
