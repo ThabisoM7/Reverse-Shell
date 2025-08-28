@@ -4,7 +4,7 @@ Learned how to build a reverse shell, allowing an attacker access to a target sy
 
 ---
 # Architecture: 
-Two applications—local.exe (controller) and remote.exe (target)—communicate over the network. remote.exe executes commands via CMD and relays the output.
+Two applications: local.exe (controller) and remote.exe (target)—communicate over the network. remote.exe executes commands via CMD and relays the output.
 
 <p align="center">
   <img src="https://github.com/ThabisoM7/Reverse-Shell/blob/master/image.png" width="100%" />
