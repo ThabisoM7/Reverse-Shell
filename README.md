@@ -1,6 +1,6 @@
 # Techical Documentation
 
-Learned how to build a reverse shell, allowing an attacker access to a target system.. I went through the work of Mr. Yosifovich; the author of the book: "Windows Internals" to guide me in building the base and I have debugged and added extra functionality.
+Learned how to build a reverse shell, allowing to a target system.. I went through the work of Mr. Yosifovich; the author of the book: "Windows Internals" to guide me in building the base and I have debugged and added extra functionality.
 
 ---
 # Architecture: 
